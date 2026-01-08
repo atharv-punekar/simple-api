@@ -1,0 +1,1 @@
+I built a simple REST API using Node.js and Express.js. I implemented health check and user management endpoints with GET and POST methods. The API supports route parameters and query parameters with proper HTTP status codes. I tested all endpoints using Postman and included the Postman collection in the repository. Finally, I pushed the complete project to GitHub for submission.
